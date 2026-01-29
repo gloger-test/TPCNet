@@ -1,9 +1,6 @@
 This repository contains the official implementation (Jupyter Notebook) for the paper **"Target-Conditioned Triple-Path Consistency for Distributional Music Emotion Regression"**, published in the journal *Knowledge-Based Systems*.
 
-This notebook covers the complete pipeline of our method, including:
-- Data preprocessing and augmentation
-- The Target-Conditioned Triple-Path Consistency (TCTPC) architecture
-- Training and inference workflows
+This notebook covers the complete pipeline of our method, including the core architecture and training/inference workflows.
 
 ### Citation
 
